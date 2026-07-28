@@ -1,0 +1,14 @@
+[
+    {
+        "name": "中文",
+        "description": "中文(简体)",
+        "value": "zh-rCN",
+        "path": "Data/Translate/zh-rCN"
+    },
+    {
+        "name": "中文(繁體)",
+        "description": "中文(繁體)",
+        "value": "zh-rTW",
+        "path": "Data/Translate/zh-rTW"
+    }
+]
